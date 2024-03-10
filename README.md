@@ -20,7 +20,7 @@ EasyFTP is a Python library that simplifies the process of interacting with FTP 
 You can install EasyFTP via pip:
 
 ```bash
-pip install EasyFtp
+pip install EasyFTP
 ```
 ## Usage
 Refer to the [documentation](https://github.com/ZustFancake/EasyFTP/blob/main/docs/EasyFTP.md) for comprehensive usage instructions and examples.
