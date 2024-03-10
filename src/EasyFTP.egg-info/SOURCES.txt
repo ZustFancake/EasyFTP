@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+./src/EasyFTP.egg-info/PKG-INFO
+./src/EasyFTP.egg-info/SOURCES.txt
+./src/EasyFTP.egg-info/dependency_links.txt
+./src/EasyFTP.egg-info/not-zip-safe
+./src/EasyFTP.egg-info/top_level.txt
+src/EasyFTP/EasyFTP.py
+src/EasyFTP/Filter.py
+src/EasyFTP/__init__.py
+src/EasyFTP.egg-info/PKG-INFO
+src/EasyFTP.egg-info/SOURCES.txt
+src/EasyFTP.egg-info/dependency_links.txt
+src/EasyFTP.egg-info/not-zip-safe
+src/EasyFTP.egg-info/top_level.txt

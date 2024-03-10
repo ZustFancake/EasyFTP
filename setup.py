@@ -8,7 +8,7 @@ except(IOError, ImportError):
 
 setup(
     name='EasyFTP',
-    version='0.0.24b',
+    version='0.0.28b',
     description='Easy usage of FTP operation',
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -16,8 +16,8 @@ setup(
     author_email='ZustFancake@dimigo.hs.kr',
     url='https://github.com/ZustFancake/EasyFTP',
     install_requires=[],
-    packages=find_packages(exclude=[], where = "./EasyFTP/src"),
-    package_dir = {'' : "./EasyFTP/src"},
+    packages=find_packages(exclude=[], where = "./src"),
+    package_dir = {'' : "./src"},
     keywords=['zustfancake', 'ftp', 'easyftp', 'EasyFTP', 'pypi'],
     python_requires='>=3.6',
     package_data={},
