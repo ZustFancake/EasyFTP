@@ -15,7 +15,7 @@ setup(
     author='ZustFancake',
     author_email='ZustFancake@dimigo.hs.kr',
     url='https://github.com/ZustFancake/EasyFTP',
-    install_requires=[],
+    install_requires=['wheel'],
     packages=find_packages(exclude=[], where = "./src"),
     package_dir = {'' : "./src"},
     keywords=['zustfancake', 'ftp', 'easyftp', 'EasyFTP', 'pypi'],
