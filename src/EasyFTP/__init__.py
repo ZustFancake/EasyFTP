@@ -1,3 +1,3 @@
-__version__ = "0.0.29b"
+__version__ = "0.0.31b"
 
 from .EasyFTP import EasyFTP, FTPError, Filter
