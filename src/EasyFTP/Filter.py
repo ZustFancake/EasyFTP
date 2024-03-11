@@ -62,3 +62,4 @@ class Filter:
             if self.matches_pattern(pat, dest):
                 return pat
         return False
+

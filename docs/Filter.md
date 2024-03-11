@@ -95,3 +95,4 @@ if my_filter.matches_patterns(["file_*.txt", "file_*.dat"], destination):
 FilterError: Raised when invalid parameters are provided during initialization.
 ## Note
 The patterns support wildcards. '*' matches any sequence of characters, while other characters match themselves.
+
