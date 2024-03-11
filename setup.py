@@ -8,7 +8,7 @@ except(IOError, ImportError):
 
 setup(
     name='EasyFTP',
-    version='0.0.32b',
+    version='0.0.33b',
     description='Easy usage of FTP operation',
     long_description=long_description,
     long_description_content_type='text/markdown',
